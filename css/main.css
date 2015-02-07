@@ -1,0 +1,9 @@
+body {
+	background-color: #F7A4A5;	
+}
+
+@media (min-width: 715px) and (max-width: 960px) {
+	body {
+		background-color: #5A0D0E;
+	}
+}
